@@ -1,0 +1,154 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the King, a proclamation for apprehending of William Standish of Standish-Hall in the county of Lancaster, Esquire</title>
+            <author>England and Wales. Sovereign (1694-1702 : William III)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1695</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 3 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A66211</idno>
+            <idno type="STC">Wing W2465</idno>
+            <idno type="STC">ESTC R37232</idno>
+            <idno type="EEBO-CITATION">16272952</idno>
+            <idno type="OCLC">ocm 16272952</idno>
+            <idno type="VID">105228</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A66211)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 105228)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1602:29)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the King, a proclamation for apprehending of William Standish of Standish-Hall in the county of Lancaster, Esquire</title>
+                  <author>England and Wales. Sovereign (1694-1702 : William III)</author>
+                  <author>William III, King of England, 1650-1702.</author>
+               </titleStmt>
+               <extent>1 broadside.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Charles Bill and the executrix of Thomas Newcomb, deceas'd ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1694 [i.e. 1695]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Given at our court at Kensington the fourteenth day of March, 1694, in the seventh year of our reign."</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  William and Mary, 1689-1702.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2008-04</date>
+            <label>Emma (Leeson) Huber</label>Sampled and proofread</change>
+         <change>
+            <date>2008-10</date>
+            <label>SPi Global</label>Rekeyed and resubmitted</change>
+         <change>
+            <date>2009-07</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-07</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="royal_proclamation">
+            <pb facs="tcp:105228:1"/>
+            <!-- PDF PAGE 10 -->
+            <head>
+               <figure>
+                  <head>W R</head>
+                  <q>DIEV ET MON DROIT</q>
+                  <q>HONI SOIT QVI MAL Y PENSE</q>
+                  <figDesc>royal blazon or coat of arms</figDesc>
+               </figure>
+            </head>
+            <head>By the King, A PROCLAMATION, For Apprehending of <hi>William Standiſh</hi> of <hi>Standiſh-Hall</hi> in the County of <hi>Lancaſter,</hi> Eſquire.</head>
+            <opener>
+               <signed>WILLIAM R.</signed>
+            </opener>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas His Majeſty hath received Information, That <hi>William Standiſh</hi> of <hi>Standiſh-Hall</hi> in the County of <hi>Lan<g ref="char:EOLhyphen"/>caſter,</hi> Eſquire, hath Conſpired, with divers other Diſaffected Perſons, to Diſturb and Deſtroy the Government, and for that purpoſe bought up Arms, and Abetted and Adhered to His Majeſties Ene<g ref="char:EOLhyphen"/>mies; For which cauſe ſeveral Warrants have Iſ<g ref="char:EOLhyphen"/>ſued for the Apprehending of the said <hi>William Standiſh,</hi> but he hath withdrawn himſelf from his uſual Place of Abode, and is fled from Iuſtice: His Ma<g ref="char:EOLhyphen"/>jeſty therefore hath thought fit, by and with the Ad<g ref="char:EOLhyphen"/>vice of His Privy Council, and upon an Humble Ad<g ref="char:EOLhyphen"/>dreſs from the Houſe of Commons for that purpoſe, to Iſſue this His Royal Proclamation; And His Majeſty doth hereby Com<g ref="char:EOLhyphen"/>mand and Require all His Loving Subjects to Diſcover, Take and Apprehend the ſaid <hi>William Standiſh</hi> whereever he may be found, and to Carry him before the next Iuſtice of Peace, or Chief Magiſtrate, who is hereby Required to Com<g ref="char:EOLhyphen"/>mit him to the next Gaol, there to remain until he be thence delivered by due Courſe of Law. And His Majeſty doth Require the said Iuſtice, or other Ma<g ref="char:EOLhyphen"/>giſtrate immediately to give Notice thereof to His Privy Council, or one of the Principal Secretaries of State. And His Majeſty doth hereby Publiſh and De<g ref="char:EOLhyphen"/>clare, That all Perſons who ſhall Conceal the ſaid <hi>William Standiſh,</hi> or be Aiding or Aſſiſting in Concealing him, or furthering his Eſcape, ſhall be Proceéded againſt for ſuch their Offence, with the utmoſt Severity according to Law. And His Majeſty does hereby Promiſe, That whoſoever ſhall Diſcover and Apprehend the ſaid <hi>William Standiſh,</hi> and Bring him before ſome Iuſtice of Peace, or Chief Ma<g ref="char:EOLhyphen"/>giſtrate, ſhall Have and Receive the Reward of Five Hundred Pounds for ſo do<g ref="char:EOLhyphen"/>ing. And We do hereby Authorize and Require Our preſent Commiſſioners of Our Treaſury, and Our High Treaſurer and Commiſſioners of Our Trea<g ref="char:EOLhyphen"/>ſury for the time being, to make Payment of the ſaid Sum accordingly.</p>
+            <closer>
+               <dateline>
+                  <hi>Given at our Court at <hi>Kenſington</hi> 
+                     <date>the Fourteenth Day of <hi>March</hi> 1694. In the Seventh Year of Our Reign.</date>
+                  </hi>
+               </dateline>
+            </closer>
+            <closer>God ſave the King.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>
+                  <hi>London,</hi> Printed by <hi>Charles Bill,</hi> and the Executrix of <hi>Thomas Newcomb</hi> de<g ref="char:EOLhyphen"/>ceas'd, Printers to the Kings moſt Excellent Majeſty. 1694.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
